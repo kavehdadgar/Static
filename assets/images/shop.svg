@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57.557"
+                    height="57.557" viewBox="0 0 57.557 57.557">
+                    <defs>
+                        <filter id="خرید" x="0" y="0" width="57.557" height="57.557" filterUnits="userSpaceOnUse">
+                            <feOffset input="SourceAlpha" />
+                            <feGaussianBlur stdDeviation="5" result="blur" />
+                            <feFlood flood-color="#3489fc" flood-opacity="0.49" />
+                            <feComposite operator="in" in2="blur" />
+                            <feComposite in="SourceGraphic" />
+                        </filter>
+                    </defs>
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#خرید)">
+                        <path id="خرید-2" data-name="خرید"
+                            d="M7.477,23.3a2.131,2.131,0,1,1-2.093,2.137A2.112,2.112,0,0,1,7.477,23.3Zm15.489,0a2.131,2.131,0,1,1-2.093,2.137A2.112,2.112,0,0,1,22.966,23.3ZM1.072,0l.14.012L4.5.517a1.053,1.053,0,0,1,.854.956l.262,3.15a.848.848,0,0,0,.84.789H25.045a2.324,2.324,0,0,1,1.941.942,3.04,3.04,0,0,1,.523,2.417L26.2,17.995a3.538,3.538,0,0,1-3.483,3.079H7.7a3.539,3.539,0,0,1-3.5-3.289L2.934,2.457.855,2.092A1.055,1.055,0,0,1,1.213.012ZM20.515,10.613H16.7a1.055,1.055,0,0,0,0,2.109h3.814a1.055,1.055,0,0,0,0-2.109Z"
+                            transform="translate(15 15)" fill="#64a6ff" />
+                    </g>
+                </svg>
